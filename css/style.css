@@ -201,7 +201,14 @@ body {
 
 .body {
     display: flex;
-    align-items: stretch;
+}
+
+.sidebar {
+    width: 322px;
+}
+
+.content {
+    flex: 1;
 }
 
 /* ==================================================
